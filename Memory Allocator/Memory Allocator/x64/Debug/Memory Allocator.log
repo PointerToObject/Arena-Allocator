@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\aiden\OneDrive\Desktop\compiler\Memory Allocator\Memory Allocator\Main.c(18,3): warning C4013: 'Sleep' undefined; assuming extern returning int
+  Memory Allocator.vcxproj -> C:\Users\aiden\OneDrive\Desktop\compiler\Memory Allocator\x64\Debug\Memory Allocator.exe
